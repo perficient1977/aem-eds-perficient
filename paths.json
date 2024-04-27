@@ -1,6 +1,5 @@
 {
   "mappings": [
-    "/content/aem-eds-perficient/:/",
-    "/content/aem-eds-perficient/configuration:/.helix/config.json"
+    "/content/aem-eds-perficient/:/"
   ]
 }
