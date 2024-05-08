@@ -1,5 +1,5 @@
 mountpoints:
   /:
-    url: "https://author-p7752-e729659.adobeaemcloud.com/bin/franklin.delivery/perficient1977/aem-eds-perficient/main"
+    url: "https://author-p7752-e729659.adobeaemcloud.com/bin/franklin.delivery/perficient1977/aem-eds-poc/main"
     type: "markup"
     suffix: ".html"
